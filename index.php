@@ -7,6 +7,6 @@
     <title>Belajar Pull Github</title>
 </head>
 <body>
-    
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quibusdam sunt reiciendis explicabo ut tempora corrupti cupiditate sequi nisi quaerat eius, dolorum est nemo nobis unde tenetur et aperiam nulla natus.</p>
 </body>
 </html>
